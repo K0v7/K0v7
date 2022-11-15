@@ -4,7 +4,7 @@ Atualmente trabalho como analista de TI.
 
 Estudando java Springboot.
 
-#Buscando trabalhar com java
+Buscando trabalhar com java 
 
 Apaixonado por esportes, E-sportes, games e Animes.
 
