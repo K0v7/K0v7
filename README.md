@@ -2,11 +2,7 @@
 
 Atualmente trabalho como analista de TI.
 
-Estudando java Springboot.
-
 Buscando trabalhar com java 
-
-Apaixonado por esportes, E-sportes, games e Animes.
 
 <div align="center">
   <a href="https://github.com/K0v7">
