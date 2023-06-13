@@ -1,4 +1,4 @@
-## Hello, I'm Felipe Silva, brazilian enginnergraduated in computer science.
+## Hello, I'm Felipe Silva, brazilian enginner graduated in computer science.
 
 Currently residing in India I work as a backend developer
 
