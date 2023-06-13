@@ -1,8 +1,6 @@
-## Olá eu sou Felipe silva, Formado em ciencias da computação.
+## Hello, I'm Felipe Silva, brazilian enginnergraduated in computer science.
 
-Atualmente trabalho como analista de TI.
-
-Buscando trabalhar com java 
+Currently residing in India I work as a backend developer
 
 <div align="center">
   <a href="https://github.com/K0v7">
